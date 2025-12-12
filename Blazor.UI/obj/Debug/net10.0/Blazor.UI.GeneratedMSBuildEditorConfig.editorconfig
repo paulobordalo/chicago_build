@@ -1,0 +1,106 @@
+is_global = true
+build_property.MudDebugAnalyzer = 
+build_property.MudAllowedAttributePattern = 
+build_property.MudAllowedAttributeList = 
+build_property.TargetFramework = net10.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = FSH.Framework.Blazor.UI
+build_property.RootNamespace = FSH.Framework.Blazor.UI
+build_property.ProjectDir = /home/developer/Source/Repos/chicago/src/BuildingBlocks/Blazor.UI/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/developer/Source/Repos/chicago/src/BuildingBlocks/Blazor.UI
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[/home/developer/Source/Repos/chicago/src/BuildingBlocks/Blazor.UI/Components/Avatars/FshAvatar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BdmF0YXJzL0ZzaEF2YXRhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/developer/Source/Repos/chicago/src/BuildingBlocks/Blazor.UI/Components/Button/FshButton.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9CdXR0b24vRnNoQnV0dG9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/developer/Source/Repos/chicago/src/BuildingBlocks/Blazor.UI/Components/Cards/FshCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9DYXJkcy9Gc2hDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/developer/Source/Repos/chicago/src/BuildingBlocks/Blazor.UI/Components/Chips/FshChip.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9DaGlwcy9Gc2hDaGlwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/developer/Source/Repos/chicago/src/BuildingBlocks/Blazor.UI/Components/Data/FshTable.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9EYXRhL0ZzaFRhYmxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/developer/Source/Repos/chicago/src/BuildingBlocks/Blazor.UI/Components/Data/Pagination/FshPagination.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9EYXRhL1BhZ2luYXRpb24vRnNoUGFnaW5hdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/developer/Source/Repos/chicago/src/BuildingBlocks/Blazor.UI/Components/Display/FshBadge.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9EaXNwbGF5L0ZzaEJhZGdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/developer/Source/Repos/chicago/src/BuildingBlocks/Blazor.UI/Components/Feedback/FshAlert.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9GZWVkYmFjay9Gc2hBbGVydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/developer/Source/Repos/chicago/src/BuildingBlocks/Blazor.UI/Components/FshHead.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Gc2hIZWFkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/developer/Source/Repos/chicago/src/BuildingBlocks/Blazor.UI/Components/FshScripts.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Gc2hTY3JpcHRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/developer/Source/Repos/chicago/src/BuildingBlocks/Blazor.UI/Components/Inputs/FshCheckbox.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9JbnB1dHMvRnNoQ2hlY2tib3gucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/developer/Source/Repos/chicago/src/BuildingBlocks/Blazor.UI/Components/Inputs/FshSelect.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9JbnB1dHMvRnNoU2VsZWN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/developer/Source/Repos/chicago/src/BuildingBlocks/Blazor.UI/Components/Inputs/FshSwitch.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9JbnB1dHMvRnNoU3dpdGNoLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/developer/Source/Repos/chicago/src/BuildingBlocks/Blazor.UI/Components/Inputs/FshTextField.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9JbnB1dHMvRnNoVGV4dEZpZWxkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/developer/Source/Repos/chicago/src/BuildingBlocks/Blazor.UI/Components/Layouts/FshBaseLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXRzL0ZzaEJhc2VMYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/developer/Source/Repos/chicago/src/BuildingBlocks/Blazor.UI/Components/Layouts/FshDrawerHeader.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXRzL0ZzaERyYXdlckhlYWRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/developer/Source/Repos/chicago/src/BuildingBlocks/Blazor.UI/Components/Navigation/FshBreadcrumbs.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9OYXZpZ2F0aW9uL0ZzaEJyZWFkY3J1bWJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/developer/Source/Repos/chicago/src/BuildingBlocks/Blazor.UI/Components/Tabs/FshTabs.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9UYWJzL0ZzaFRhYnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/developer/Source/Repos/chicago/src/BuildingBlocks/Blazor.UI/Components/Title/FshPageTitle.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9UaXRsZS9Gc2hQYWdlVGl0bGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/developer/Source/Repos/chicago/src/BuildingBlocks/Blazor.UI/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
